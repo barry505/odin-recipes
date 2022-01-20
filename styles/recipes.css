@@ -1,4 +1,24 @@
 body {
-  background-color: lightgray;
+  background-color: #ddbea9;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+.desc li {
+  text-align: center;
+}
+
+ul li {
+  list-style-type: none;
+  text-align: left;
+}
+
+ol li {
+  text-align: justify;
+  margin-bottom: 5px;;
 }
